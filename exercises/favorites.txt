@@ -1,8 +1,0 @@
-# My Favorites List
-# =================
-
-# This file is used for the MERGE CONFLICT exercise!
-# Follow the instructions in Lesson 5 of the README.
-
-# Your favorites will be added below:
-
