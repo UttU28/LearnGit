@@ -1,20 +1,27 @@
-
-🧪 TASK 2 – Branching & Merge
-tasks/task-2-branching.md
-md
-Copy code
-# 🧩 Task 2 – Branching & Merging
+# 🧩 Task 2 – Branching & Pull Request Merge
 
 ## Objective
-Understand branch isolation & merging.
+Understand isolated work on branches and merging via PR.
 
 ## Steps
-1. Create a new branch:
-git checkout -b feature/update-changelog-<your-name>
+1. Update your local repo:
+   ```bash
+   git checkout main
+   git pull origin main
+   ```
+2. Create a new branch:
+   ```bash
+   git checkout -b feature/update-changelog-<your-name>
+   ```
+3. Add a line to `changelog.md` with your name and today’s date.
+4. Commit & push:
+   ```bash
+   git add changelog.md
+   git commit -m "chore: update changelog for <your-name>"
+   git push -u origin feature/update-changelog-<your-name>
+   ```
+5. Open a Pull Request.
+6. Reviewer merges the PR.
 
-markdown
-Copy code
-2. Add your name to `changelog.md`
-3. Commit & push
-4. Open PR
-5. Reviewer will merge
+## Deliverable
+A merged PR that updates `changelog.md`.

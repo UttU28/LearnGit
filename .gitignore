@@ -1,1 +1,12 @@
-*.pdf
+# OS
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# Node / Python common
+node_modules/
+__pycache__/
+*.log
