@@ -1,0 +1,13 @@
+# Scratch Pad
+# ===========
+
+# Use this file to practice:
+# - Making changes
+# - Staging files
+# - Discarding changes with git restore
+# - Unstaging files
+
+# Write anything you want below and practice undoing changes!
+
+Hello, I'm learning Git!
+

@@ -1,0 +1,23 @@
+# About Me
+# =========
+
+# Instructions:
+# 1. Create a new branch: git checkout -b feature-about-me
+# 2. Fill in the information below
+# 3. Stage and commit your changes
+# 4. Merge back to main
+
+Full Name: 
+GitHub Username: 
+Favorite Programming Language: 
+Why are you learning Git?: 
+
+# Fun Facts
+Favorite Movie: 
+Favorite Food: 
+Hobby: 
+
+# Goals
+What do you want to build?: 
+Where do you see yourself in 1 year?: 
+

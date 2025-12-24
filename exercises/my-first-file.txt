@@ -1,0 +1,14 @@
+# My First Git File
+# ==================
+
+# Instructions:
+# 1. Add your name below
+# 2. Add today's date
+# 3. Stage this file with: git add exercises/my-first-file.txt
+# 4. Commit with: git commit -m "Add my name to first file"
+
+Name: [YOUR NAME HERE]
+Date: [TODAY'S DATE]
+
+# Congratulations! You just made your first Git commit! 🎉
+
